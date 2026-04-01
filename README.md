@@ -1,2 +1,2 @@
 # Lista_de_Filmes
-tividade 2 de desenvolvimento mobile
+Atividade 2 de Desenvolvimento Mobile
